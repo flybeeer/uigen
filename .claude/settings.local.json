@@ -40,7 +40,9 @@
       "Bash(screencapture /tmp/uigen_tab.png)",
       "Bash(node -e ' *)",
       "Bash(pip3 install *)",
-      "Bash(screencapture /tmp/uigen_generated.png)"
+      "Bash(screencapture /tmp/uigen_generated.png)",
+      "Bash(git pull *)",
+      "Bash(git stash *)"
     ]
   }
 }

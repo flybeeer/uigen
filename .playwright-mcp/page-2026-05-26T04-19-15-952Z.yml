@@ -1,0 +1,56 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - generic [ref=e57]: Create a beautiful card component with a title, description, image placeholder, and a call-to-action button
+            - img [ref=e60]
+          - generic [ref=e63]:
+            - img [ref=e66]
+            - generic [ref=e71]:
+              - generic [ref=e74]: Creating App.jsx
+              - separator [ref=e75]
+              - generic [ref=e76]:
+                - paragraph [ref=e77]: "Done! I've created a beautiful card component with:"
+                - paragraph [ref=e78]:
+                  - strong [ref=e79]: "Design aesthetic:"
+                  - text: Soft pastel/airy with jewel-tone accents (teal & emerald)
+                - paragraph [ref=e80]:
+                  - strong [ref=e81]: "Features:"
+                - list [ref=e82]:
+                  - listitem [ref=e83]: Responsive card with rounded corners and subtle border
+                  - listitem [ref=e84]: Image placeholder with hover zoom effect
+                  - listitem [ref=e85]: Bold title and descriptive text
+                  - listitem [ref=e86]: Gradient CTA button with hover states
+                  - listitem [ref=e87]: Smooth transitions and shadow effects
+                  - listitem [ref=e88]:
+                    - text: Reusable
+                    - code [ref=e96]: Card
+                    - text: component with customizable props
+                - paragraph [ref=e90]:
+                  - text: The card is displayed in the App with a soft gradient background. You can customize the title, description, image, and button text by passing different props to the
+                  - code [ref=e97]: Card
+                  - text: component.
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [selected] [ref=e32]
+          - tab "Code" [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - iframe [ref=e95]:
+        - generic [ref=f2e4]:
+          - img "Discover Innovation" [ref=f2e6]
+          - generic [ref=f2e7]:
+            - heading "Discover Innovation" [level=2] [ref=f2e8]
+            - paragraph [ref=f2e9]: Explore cutting-edge solutions designed to transform your workflow and unlock new possibilities for growth.
+            - button "Learn More" [ref=f2e10] [cursor=pointer]
+  - alert [ref=e47]
